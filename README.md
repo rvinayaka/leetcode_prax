@@ -1,3 +1,3 @@
 # Python practice sums
 
-Python problem usecase for practice
+Python problem usecases for practice
